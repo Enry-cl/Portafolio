@@ -17,6 +17,7 @@
 
 ```
 echo "hello world"
+echo "cruel"
 ```
 
 ## Hecho por:
